@@ -1,0 +1,7 @@
+{
+  "name": "angular-draggable-tree",
+  "dependencies": {
+    "jquery-ui": "~1.10.3",
+    "nested-sortable": "https://github.com/mjsarfatti/nestedSortable.git"
+  }
+}
